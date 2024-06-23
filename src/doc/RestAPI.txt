@@ -1,0 +1,11 @@
+Rest API ?
+
+-URI 주소와 메소드로 crud 작업을 하는 것
+
+Create : POST
+Read : GET
+Update : PUT
+Delete : Delete
+
+대문자로된 메소드를 사용한다
+

@@ -1,0 +1,149 @@
+{
+  "days": [
+    {
+      "id": "1",
+      "day": 1
+    },
+    {
+      "id": "2",
+      "day": 2
+    },
+    {
+      "id": "3",
+      "day": 3
+    },
+    {
+      "day": 4,
+      "id": "4"
+    },
+    {
+      "id": "f232",
+      "day": 5
+    },
+    {
+      "id": "0ab2",
+      "day": 6
+    }
+  ],
+  "words": [
+    {
+      "id": "1",
+      "day": 1,
+      "eng": "book",
+      "kor": "책",
+      "isDone": true
+    },
+    {
+      "id": "6",
+      "day": 3,
+      "eng": "pencil",
+      "kor": "연필",
+      "isDone": false
+    },
+    {
+      "day": "3",
+      "eng": "window",
+      "kor": "창문",
+      "isDone": false,
+      "id": "7"
+    },
+    {
+      "day": "3",
+      "eng": "house",
+      "kor": "집",
+      "isDone": false,
+      "id": "8"
+    },
+    {
+      "day": "2",
+      "eng": "mouse",
+      "kor": "쥐",
+      "isDone": false,
+      "id": "9"
+    },
+    {
+      "day": "4",
+      "eng": "monkey",
+      "kor": "원숭이",
+      "isDone": true,
+      "id": "10"
+    },
+    {
+      "day": "4",
+      "eng": "apple",
+      "kor": "사과",
+      "isDone": true,
+      "id": "11"
+    },
+    {
+      "id": "c549",
+      "day": "4",
+      "eng": "park",
+      "kor": "공원",
+      "isDone": false
+    },
+    {
+      "id": "78a9",
+      "day": "1",
+      "eng": "cpu",
+      "kor": "CPU",
+      "isDone": false
+    },
+    {
+      "id": "dfc1",
+      "day": "1",
+      "eng": "chair",
+      "kor": "의자",
+      "isDone": false
+    },
+    {
+      "id": "8d0d",
+      "day": "7",
+      "eng": "pig",
+      "kor": "돼지",
+      "isDone": false
+    },
+    {
+      "id": "26a6",
+      "day": "1",
+      "eng": "bird",
+      "kor": "새",
+      "isDone": false
+    },
+    {
+      "id": "d37c",
+      "day": "1",
+      "eng": "yellow",
+      "kor": "노랑",
+      "isDone": false
+    },
+    {
+      "id": "4579",
+      "day": "2",
+      "eng": "right",
+      "kor": "오른쪽",
+      "isDone": false
+    },
+    {
+      "id": "1180",
+      "day": "1",
+      "eng": "banana",
+      "kor": "바나나",
+      "isDone": false
+    },
+    {
+      "id": "b063",
+      "day": "1",
+      "eng": "ball",
+      "kor": "공",
+      "isDone": true
+    },
+    {
+      "id": "c1c8",
+      "day": "1",
+      "eng": "left",
+      "kor": "왼쪽",
+      "isDone": false
+    }
+  ]
+}
